@@ -1,0 +1,55 @@
+pyclingo version 5.7.1
+Reading from problem-1/encoding.lp ...
+Solving...
+Answer: 1
+function(g1,0) function(g2,1) function(g3,1) function(g4,1)
+SATISFIABLE
+
+Models       : 1
+Calls        : 1
+Time         : 0.005s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.002s
+pyclingo version 5.7.1
+Reading from problem-1/encoding.lp ...
+Solving...
+Answer: 1
+function(g2,0) function(g1,1) function(g3,0) function(g4,0) function(g5,1)
+SATISFIABLE
+
+Models       : 1
+Calls        : 1
+Time         : 0.001s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.001s
+pyclingo version 5.7.1
+Reading from problem-1/encoding.lp ...
+Solving...
+Answer: 1
+function(g2,0) function(g1,0) function(g3,0) function(g4,1) function(g5,0) function(g6,1)
+SATISFIABLE
+
+Models       : 1
+Calls        : 1
+Time         : 0.002s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.002s
+pyclingo version 5.7.1
+Reading from problem-1/encoding.lp ...
+Solving...
+Answer: 1
+function(g1,1) function(g2,1) function(g3,1) function(g4,0) function(g5,0) function(g6,1) function(g7,0)
+SATISFIABLE
+
+Models       : 1
+Calls        : 1
+Time         : 0.002s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.002s
+pyclingo version 5.7.1
+Reading from problem-1/encoding.lp ...
+Solving...
+Answer: 1
+function(g2,0) function(g1,1) function(g3,1) function(g4,1) function(g5,1) function(g6,0) function(g7,0)
+SATISFIABLE
+
+Models       : 1
+Calls        : 1
+Time         : 0.002s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.002s
